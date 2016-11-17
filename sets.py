@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+
+"""sets.py: Stores the hangman pattern"""
+
+__author__ = "Wesley Soo-Hoo"
+__license__ = "MIT"
+
 hangman = [
 	[
 		"_________  ",

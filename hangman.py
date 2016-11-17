@@ -1,4 +1,11 @@
+#!/usr/bin/env python
+
+"""hangman.py: Backend class that runs the magic"""
+
 import sets
+
+__author__ = "Wesley Soo-Hoo"
+__license__ = "MIT"
 
 class hangman:
 	def __init__(self, word):
