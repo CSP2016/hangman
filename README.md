@@ -1,7 +1,7 @@
 # Hangman
 A working hangman game. Run using Python 3 on [repl.it](https://repl.it/E18h/36)
 
-To change the word, edit line 7 in `main.py`
+To change the word, edit line 10 in `main.py`
 
 See 1.3.7 and 1.3.8 for the `for` and `while` loops
 
